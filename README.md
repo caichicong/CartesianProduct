@@ -1,0 +1,1 @@
+Yields an array of objects on each step containing values from each of the Iterables. It saves memory in Node.js
